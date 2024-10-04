@@ -18,4 +18,4 @@
 
 ## P.S.
 ![Мем про git flow.]
-(https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmaybe-this-is-a-git-repost-v0-qfnbpvj0xhla1.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D61301a4fc22615b4a653971d7bf0fdf48e14b108&rdt=47936)
+(https://media.licdn.com/dms/image/v2/C4D22AQFRxiMavzLOiw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1640929589401?e=2147483647&v=beta&t=CHWvAQRs082Q9wpWFVP_XoG8_Rxtkq8gjhkcGd3LCjA)
