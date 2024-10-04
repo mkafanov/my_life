@@ -17,5 +17,4 @@
 > Курс огонь, кайфую с каждый степом. Добавьте пжл блоки про облачные решения и работу с удаленными серверами.
 
 ## P.S.
-![Мем про git flow.]
-(https://media.licdn.com/dms/image/v2/C4D22AQFRxiMavzLOiw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1640929589401?e=2147483647&v=beta&t=CHWvAQRs082Q9wpWFVP_XoG8_Rxtkq8gjhkcGd3LCjA)
+![Мем про git flow.](https://media.licdn.com/dms/image/v2/C4D22AQFRxiMavzLOiw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1640929589401?e=2147483647&v=beta&t=CHWvAQRs082Q9wpWFVP_XoG8_Rxtkq8gjhkcGd3LCjA)
